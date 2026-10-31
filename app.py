@@ -141,7 +141,7 @@ st.sidebar.subheader("Model Information")
 st.sidebar.write("**Architecture:** YOLO11n")
 st.sidebar.write("**Framework:** Ultralytics")
 st.sidebar.write("**Dataset:** RDD2022 India")
-st.sidebar.write("**Inference device:** Apple MPS")
+st.sidebar.write(f"**Inference device:** {DEVICE.upper()}")
 
 
 # --------------------------------------------------
@@ -406,7 +406,7 @@ with about_tab:
     - Training experiment: Experiment 2
     - Training epochs: 80
     - Image size: 512 × 512
-    - Inference device: Apple MPS
+    - Inference device: Automatically selected (MPS/CUDA/CPU)
     """)
 
 
