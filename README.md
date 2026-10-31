@@ -94,3 +94,21 @@ RoadSurfaceIntelligence/
 └── assets/
     ├── sample_road_image.jpg
     └── sample_prediction.jpg
+## Application Screenshots
+
+### Dashboard
+![Road Surface Intelligence dashboard](assets/dashboard_overview.png)
+
+### Road damage detection
+![Road damage detection result](assets/prediction_result_1.png)
+
+### Class-wise validation performance
+![Class-wise validation performance](assets/class_performance.png)
+
+### About the project
+![About Road Surface Intelligence](assets/about_project.png)
+
+## Technical Report
+
+See [Road Surface Intelligence Technical Report](reports/Road_Surface_Intelligence_Technical_Report.pdf)
+for dataset preparation, methodology, experiments, validation results, limitations and application screenshots.
