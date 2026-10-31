@@ -94,6 +94,8 @@ RoadSurfaceIntelligence/
 └── assets/
     ├── sample_road_image.jpg
     └── sample_prediction.jpg
+```
+
 ## Application Screenshots
 
 ### Dashboard
